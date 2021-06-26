@@ -1029,10 +1029,7 @@ a:hover {
 	color: #ffffff;
 }
 
-/******************/
-/*     Manager     */
-/******************/
-
+/*Manager Card*/
 
 .card_manager {
     margin: 110px 140px;
@@ -1040,7 +1037,6 @@ a:hover {
     grid-template-columns: repeat(3,1fr);
     grid-gap: 40px;
     align-items: center;
-
 }
 
 .card_manager > article {
